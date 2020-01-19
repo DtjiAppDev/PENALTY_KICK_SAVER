@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: Penalty-Kick-Saver
+Version: 1
+Summary: This is a simple game where the player becomes the goalkeeper whose job is to save the penalty kick.
+Home-page: https://github.com/DtjiAppDev/PENALTY_KICK_SAVER
+Author: Dtji AppDev
+Author-email: dtjiappdev1999@gmail.com
+License: MIT
+Description: # Penalty Kick Saver
+        
+        A Python package which is used to play a game of saving a penalty kick.
+        
+        ## Usage
+        
+        Typing the direction where the goalkeeper goes will output whether the
+        penalty kick is successfully saved or not.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown

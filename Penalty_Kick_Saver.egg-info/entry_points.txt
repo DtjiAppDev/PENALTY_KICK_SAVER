@@ -1,3 +1,0 @@
-[console_scripts]
-Penalty Kick Saver = Penalty_Kick_Saver.penalty_kick_saver:main
-

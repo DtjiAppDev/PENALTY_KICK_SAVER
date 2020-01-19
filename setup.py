@@ -11,7 +11,7 @@ setup(
     name='Penalty Kick Saver',
     version='1',
     packages=['Penalty_Kick_Saver'],
-    url='',
+    url='https://github.com/DtjiAppDev/PENALTY_KICK_SAVER',
     license='MIT',
     author='Dtji AppDev',
     author_email='dtjiappdev1999@gmail.com',
